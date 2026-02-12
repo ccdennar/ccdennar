@@ -28,7 +28,7 @@
 
 ```yaml
 name: Chinazam C. Dennar
-role: Senior DevOps / Platform Engineer
+role: DevOps / Platform Engineer
 location: Calgary, Canada
 experience: 7+ years
 focus_areas:
