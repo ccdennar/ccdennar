@@ -159,7 +159,7 @@ I specialize in **multicloud platforms**, particularly **AWS, Azure, and GCP**, 
 ---
 
 ### 2. ☁️ Cloud-Native Application Platform on AWS EKS
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccdennar&repo=cloud-native-eks&theme=tokyonight&hide_border=true)](https://github.com/ccdennar/cloud-native-eks)
+[![Cloud Native EKS](https://img.shields.io/badge/☁️%20Cloud--Native-EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/chizchig/cloud-native-eks)
 
 > Enterprise-grade cloud-native platform with GitOps, service mesh, and comprehensive observability.
 
