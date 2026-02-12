@@ -144,7 +144,7 @@ I specialize in **multicloud platforms**, particularly **AWS, Azure, and GCP**, 
 ## 🏆 Featured Projects
 
 ### 1. 🤖 AI/ML Platform Infrastructure with GPU Workloads
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccdennar&repo=ai-ml-platform&theme=tokyonight&hide_border=true)](https://github.com/ccdennar/ai-ml-platform)
+[![AI/ML Platform](https://img.shields.io/badge/AI%2FML-Platform-blue?style=for-the-badge&logo=tensorflow)](https://github.com/ccdennar/ai-ml-platform)
 
 > Scalable infrastructure for AI-enabled services supporting both experimentation and production ML/LLM workloads.
 
