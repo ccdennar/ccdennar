@@ -28,7 +28,7 @@
 
 ```yaml
 name: Chinazam C. Dennar
-role: DevOps / Platform Engineer
+role: Senior DevOps / Platform Engineer
 location: Calgary, Canada
 experience: 7+ years
 focus_areas:
@@ -318,3 +318,17 @@ I specialize in **multicloud platforms**, particularly **AWS, Azure, and GCP**, 
   
 </div>
 
+<!--
+**ccdennar/ccdennar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
