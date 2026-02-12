@@ -189,7 +189,7 @@ I specialize in **multicloud platforms**, particularly **AWS, Azure, and GCP**, 
 ---
 
 ### 4. 🔧 Microservices Architecture with Kubernetes
-[![Microservices Platform](https://img.shields.io/badge/ 🚀%20Multi-Cloud%20Microservices-Platform-00C7B7?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/chizchig/microservices_platform )
+[![Microservices Platform](https://img.shields.io/badge/🚀%20Multi-Cloud%20Microservices-Platform-E31937?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/chizchig/microservices_platform)
 
 > Production-ready microservices platform with service mesh and GitOps.
 
