@@ -174,7 +174,7 @@ I specialize in **multicloud platforms**, particularly **AWS, Azure, and GCP**, 
 ---
 
 ### 3. 📡 Observable Serverless Ingestion Pipeline
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccdennar&repo=serverless-pipeline&theme=tokyonight&hide_border=true)](https://github.com/ccdennar/serverless-pipeline)
+[![Serverless Pipeline](https://img.shields.io/badge/⚡%20Serverless-Pipeline-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/ccdennar/serverless-pipeline)
 
 > Fully serverless data ingestion pipeline with comprehensive observability.
 
